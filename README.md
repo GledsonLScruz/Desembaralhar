@@ -1,38 +1,16 @@
-Desembaralhar App
+Desembaralhar ⏳
 ===================================
 
 Desembaralhar é um game Single Player que mostra palavras embaralhadas. Para jogar, o jogador tem que criar uma palavra usando todas as letras que foram mostradas.
 
 Conhecimentos:
 ====================================
-ViewModel
-LiveData
-DataBinding
+ViewModel,
+LiveData,
+DataBinding.
 
-
-
-
-
-
-
-
-License
--------
-
-Copyright (C) 2020 The Android Open Source Project.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
+<p align="start">
+<img align="Center" width="270" height="590" src="https://cdn.discordapp.com/attachments/558087898705166346/947940401032097862/Screenshot_20220228-163837_Desembaralhar.jpg">
+<br />
+</p>
 
